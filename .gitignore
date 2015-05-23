@@ -1,0 +1,10 @@
+doc/
+target/
+Cargo.lock
+
+# vim temp files
+*.sw[a-z]
+
+# emacs temp files
+\#*
+.#*
